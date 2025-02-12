@@ -55,7 +55,9 @@ RickAndMortySearchApp is an iOS app that allows users to browse characters from 
 3. Run the app on the **iOS Simulator** or a real device.
 
 ## 📸 Screenshots
-(Attach screenshots here)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-12 at 13 19 10](https://github.com/user-attachments/assets/3aaf1cf6-2619-4e43-9f63-e3b483adcefc)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-12 at 13 19 14](https://github.com/user-attachments/assets/3f07a5f6-d5af-4063-a7bc-d6718e5c22d9)
+
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
