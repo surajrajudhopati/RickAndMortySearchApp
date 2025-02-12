@@ -1,0 +1,17 @@
+
+# macOS system files
+.DS_Store
+
+# Xcode workspace & user settings
+xcuserdata/
+xcshareddata/
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# Ignore build artifacts
+*.xcarchive
+
+# Ignore CocoaPods
+Pods/
+
